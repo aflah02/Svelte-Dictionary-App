@@ -1,4 +1,4 @@
-Simple Dictionary App Built Using Svelte
+## Simple Dictionary App Built Using Svelte
 
 Deployed [here](https://svelte-dictionary-app-three.vercel.app/) using Vercel
 
